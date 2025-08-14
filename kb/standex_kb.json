@@ -1,0 +1,58 @@
+[
+  {
+    "id": "about",
+    "tags": ["about", "institute", "standex"],
+    "bn": "স্ট্যান্ডেক্স জাপানিজ ল্যাঙ্গুয়েজ ইনস্টিটিউট হলো একটি জাপানি ভাষা শিক্ষা কেন্দ্র যেখানে বিগিনার থেকে অ্যাডভান্সড পর্যন্ত কোর্স করানো হয়।",
+    "en": "Standex Japanese Language Institute offers courses from beginner to advanced levels.",
+    "ja": "スタンデックス日本語学院は、初級から上級までのコースを提供しています。"
+  },
+  {
+    "id": "admission_procedure",
+    "tags": ["admission", "apply", "enroll"],
+    "bn": "ভর্তি হতে অনলাইনে আবেদন ফর্ম পূরণ করুন, জাতীয় পরিচয়পত্র/পাসপোর্ট কপি এবং ১ কপি ছবি লাগবে। ভর্তি ফি জমা দিলেই রেজিস্ট্রেশন কনফার্ম হয়।",
+    "en": "To enroll, fill out the online application form, provide NID/passport and a photo. Registration is confirmed after payment.",
+    "ja": "入学にはオンライン申込フォーム、身分証/パスポートのコピー、写真が必要です。お支払い後に登録が確定します。"
+  },
+  {
+    "id": "fees",
+    "tags": ["fees", "tuition", "cost"],
+    "bn": "কোর্স ফি: বিগিনার (৩ মাস) ১৫,০০০ টাকা, ইন্টারমিডিয়েট (৩ মাস) ১৮,০০০ টাকা, অ্যাডভান্সড (৩ মাস) ২০,০০০ টাকা। কিস্তি ব্যবস্থা আছে।",
+    "en": "Tuition: Beginner (3 months) BDT 15,000; Intermediate (3 months) BDT 18,000; Advanced (3 months) BDT 20,000. Installments available.",
+    "ja": "授業料：初級（3ヶ月）15,000 BDT、中級（3ヶ月）18,000 BDT、上級（3ヶ月）20,000 BDT。分割払い可。"
+  },
+  {
+    "id": "schedule",
+    "tags": ["class", "schedule", "time"],
+    "bn": "ক্লাস শিডিউল: সকাল ব্যাচ ১০:০০–১১:৩০, বিকাল ব্যাচ ৩:০০–৪:৩০, রাত ব্যাচ ৭:৩০–৯:০০ (রবি–বৃহস্পতি)।",
+    "en": "Class schedule: Morning 10:00–11:30, Afternoon 15:00–16:30, Evening 19:30–21:00 (Sun–Thu).",
+    "ja": "時間割：午前 10:00–11:30、午後 15:00–16:30、夜 19:30–21:00（日–木）。"
+  },
+  {
+    "id": "holiday",
+    "tags": ["holiday", "vacation", "closed"],
+    "bn": "সাপ্তাহিক ছুটি শুক্রবার। সরকারি ছুটি মেনে ক্লাস বন্ধ থাকে।",
+    "en": "Weekly holiday is Friday. We follow national public holidays.",
+    "ja": "週休日は金曜日。国の祝日に準じます。"
+  },
+  {
+    "id": "contact",
+    "tags": ["contact", "phone", "address"],
+    "bn": "ঠিকানা: স্ট্যান্ডেক্স, ঢাকায় অবস্থিত। ফোন: +8801XXXXXXXXX, ইমেইল: info@standex.edu.bd",
+    "en": "Address: Standex, Dhaka. Phone: +8801XXXXXXXXX, Email: info@standex.edu.bd",
+    "ja": "住所：ダッカ、スタンデックス。電話：+8801XXXXXXXXX、メール：info@standex.edu.bd"
+  },
+  {
+    "id": "payment",
+    "tags": ["payment", "bkash", "nagad", "rocket", "card"],
+    "bn": "পেমেন্ট: বিকাশ/নগদ/রকেট/আপাই/ব্যাংক/কার্ড সমর্থিত। ট্রানজ্যাকশন আইডি সংরক্ষণ করুন।",
+    "en": "Payment: bKash/Nagad/Rocket/Upay/Bank/Card supported. Keep your transaction ID.",
+    "ja": "支払い：bKash/Nagad/Rocket/Upay/銀行/カード対応。取引IDを保管してください。"
+  },
+  {
+    "id": "materials",
+    "tags": ["books", "materials", "jlpt"],
+    "bn": "স্টাডি ম্যাটেরিয়ালস: হিরাগানা/কাতাকানা চার্ট, JLPT N5–N3 প্র্যাকটিস, এবং ভিডিও লেকচার লিংক প্রদান করা হয়।",
+    "en": "Study materials: Hiragana/Katakana charts, JLPT N5–N3 practice, and video lecture links are provided.",
+    "ja": "教材：ひらがな/カタカナ表、JLPT N5–N3練習、動画講義リンクを提供します。"
+  }
+]

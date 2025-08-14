@@ -1,0 +1,6 @@
+streamlit==1.37.1
+python-dotenv==1.0.1
+scikit-learn==1.5.1
+langdetect==1.0.9
+openai==1.43.0
+rapidfuzz==3.9.6
