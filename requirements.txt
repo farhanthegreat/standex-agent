@@ -4,3 +4,9 @@ scikit-learn==1.5.1
 langdetect==1.0.9
 openai==1.43.0
 rapidfuzz==3.9.6
+streamlit
+python-dotenv
+scikit-learn
+langdetect
+openai
+rapidfuzz
